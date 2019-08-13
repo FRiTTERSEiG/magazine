@@ -1,0 +1,2 @@
+# magazine
+recreated magazine page 
